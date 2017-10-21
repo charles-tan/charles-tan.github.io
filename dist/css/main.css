@@ -23,7 +23,10 @@ body {
   font-size: 1.6rem;
   line-height: 1.4;
   font-weight: 400;
-  color: #404040; }
+  color: #404040;
+  background-color: #E5F4E3;
+  margin: 0;
+  padding: 0;}
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 500; }
@@ -72,6 +75,13 @@ h6 {
   text-transform: uppercase;
   color: #292249;
   margin: 0.5em 0; }
+
+ul {
+  list-style: none;
+  padding: 0;
+  padding-top: 20px;
+  margin: 0;
+}
 
 .dark-bg {
   color: #fff; }
